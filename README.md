@@ -116,6 +116,50 @@ I believe in learning by building, solving problems, and improving every day.
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
+### 🎬 StudioSpace — Creative Studio Marketplace
+
+A full-stack creative studio marketplace where creators can discover, explore, and book professional creative spaces, including photography studios, podcast rooms, music studios, and film production spaces.
+
+#### ✨ Features
+
+* 🎥 Explore creative studios and workspaces
+* 🔍 Browse studios by category
+* 🏢 List and manage personal studio spaces
+* 📅 Studio booking and reservation system
+* 🔐 User authentication and protected routes
+* 👤 User profile management
+* ⭐ Studio ratings and reviews
+* 💰 Hourly pricing and security deposits
+* 📱 Fully responsive user interface
+* 🎨 Modern cinematic UI design
+
+#### 💻 Technologies
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb"
+    alt="StudioSpace Technologies"
+  />
+</p>
+
+#### 🔗 Links
+
+**Live Website:**
+
+https://studio-space-pearl.vercel.app/
+
+**Frontend Repository:**
+
+https://github.com/mohhammadullah/8th-assaignment
+
+**Backend Repository:**
+
+https://github.com/mohhammadullah/8th-assaignment-serverbackend
+
+---
+
+
+
 ## 📌 Featured Projects
 
 ### 🥬 Nature's Platter
