@@ -10,12 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <!-- <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto"> -->
-    <!-- 🔗 View My Banner on Google Drive -->
-  </a>
-</p>
-
 <br />
 
 <!-- ===================== INTRO ===================== -->
@@ -31,31 +25,21 @@
 </p>
 
 <p align="center">
+  <a href="https://my-portfolio-omega-blue-65.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/gazi-mohammadullah-601399439/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:gmhgazi92@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://www.facebook.com/gazimoammaulla">
-    <img
-      src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-    />
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ---
-
-<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -65,56 +49,80 @@ I enjoy building modern web applications and learning new technologies through p
 
 I believe in learning by building, solving problems, and improving every day.
 
----
+🌐 **Explore my portfolio:**  
+https://my-portfolio-omega-blue-65.vercel.app/
 
-<!-- ===================== CURRENT ACTIVITIES ===================== -->
+---
 
 ## 🚀 Currently Working On
 
-* 🌱 Learning **Next.js**
-* 📘 Practicing **TypeScript**
-* ⚛️ Building applications with **React**
-* 🎨 Creating modern interfaces using **Tailwind CSS**
-* 💻 Improving my **Full-Stack Web Development** skills
-* 🧠 Practicing programming and problem-solving
-* 🚀 Building real-world projects
+- 🌱 Learning **Next.js**
+- 📘 Practicing **TypeScript**
+- ⚛️ Building applications with **React**
+- 🎨 Creating modern interfaces using **Tailwind CSS**
+- 💻 Improving my **Full-Stack Web Development** skills
+- 🧠 Practicing programming and problem-solving
+- 🚀 Building real-world projects
 
 ---
-
-<!-- ===================== SKILLS ===================== -->
 
 ## 🛠️ Skills & Technologies
 
 ### Frontend
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"
-    alt="Frontend Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Technologies" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
-    alt="Backend Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
 </p>
 
 ### Tools
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite"
-    alt="Development Tools"
-  />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite" alt="Development Tools" />
 </p>
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+### 🔧 FixMate — Home Service Booking Platform
+
+A full-stack home service booking platform designed to connect customers with professional service providers. FixMate makes it easier to discover services, book appointments, communicate in real time, and manage payments.
+
+#### ✨ Features
+
+- 🔐 Secure authentication and role-based access control
+- 🔍 Browse and explore home services
+- 🛠️ Service provider and service management
+- 📅 Home service booking and management
+- 💳 Secure online payments with Stripe
+- 💬 Real-time messaging with Socket.IO
+- 💰 Payment tracking and booking updates
+- 📱 Responsive user interface
+- 🔎 SEO optimization for search engine visibility
+
+#### 💻 Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb" alt="FixMate Technologies" />
+</p>
+
+**Additional Technologies:** Better Auth, Stripe, Socket.IO
+
+#### 🔗 Links
+
+**Live Website:**  
+https://fixmate-client-neon.vercel.app/
+
+**Project Portfolio:**  
+https://my-portfolio-omega-blue-65.vercel.app/
+
+---
 
 ### 🎬 StudioSpace — Creative Studio Marketplace
 
@@ -122,45 +130,35 @@ A full-stack creative studio marketplace where creators can discover, explore, a
 
 #### ✨ Features
 
-* 🎥 Explore creative studios and workspaces
-* 🔍 Browse studios by category
-* 🏢 List and manage personal studio spaces
-* 📅 Studio booking and reservation system
-* 🔐 User authentication and protected routes
-* 👤 User profile management
-* ⭐ Studio ratings and reviews
-* 💰 Hourly pricing and security deposits
-* 📱 Fully responsive user interface
-* 🎨 Modern cinematic UI design
+- 🎥 Explore creative studios and workspaces
+- 🔍 Browse studios by category
+- 🏢 List and manage personal studio spaces
+- 📅 Studio booking and reservation system
+- 🔐 User authentication and protected routes
+- 👤 User profile management
+- ⭐ Studio ratings and reviews
+- 💰 Hourly pricing and security deposits
+- 📱 Fully responsive user interface
+- 🎨 Modern cinematic UI design
 
 #### 💻 Technologies
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb"
-    alt="StudioSpace Technologies"
-  />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb" alt="StudioSpace Technologies" />
 </p>
 
 #### 🔗 Links
 
-**Live Website:**
-
+**Live Website:**  
 https://studio-space-pearl.vercel.app/
 
-**Frontend Repository:**
-
+**Frontend Repository:**  
 https://github.com/mohhammadullah/8th-assaignment
 
-**Backend Repository:**
-
+**Backend Repository:**  
 https://github.com/mohhammadullah/8th-assaignment-serverbackend
 
 ---
-
-
-
-## 📌 Featured Projects
 
 ### 🥬 Nature's Platter
 
@@ -168,29 +166,26 @@ A clean and responsive grocery and fresh-food website built with **HTML and Tail
 
 #### ✨ Features
 
-* 🌱 Clean and modern UI
-* 🛒 Product showcase
-* 📦 Services section
-* 🧭 Navigation bar
-* 📱 Responsive design
-* 🎨 Tailwind CSS styling
-* ✨ User-friendly layout
+- 🌱 Clean and modern UI
+- 🛒 Product showcase
+- 📦 Services section
+- 🧭 Navigation bar
+- 📱 Responsive design
+- 🎨 Tailwind CSS styling
+- ✨ User-friendly layout
 
 #### 💻 Technologies
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=html,tailwind"
-    alt="HTML and Tailwind CSS"
-  />
+  <img src="https://skillicons.dev/icons?i=html,tailwind" alt="HTML and Tailwind CSS" />
 </p>
 
 #### 🔗 Links
 
-**Live Demo:**
+**Live Demo:**  
 https://mohhammadullah.github.io/practice-2/
 
-**GitHub Repository:**
+**GitHub Repository:**  
 https://github.com/mohhammadullah/practice-2
 
 ---
@@ -203,45 +198,37 @@ Users can explore different technologies, view their information, and build thei
 
 #### ✨ Features
 
-* 🔍 Explore different technologies
-* ➕ Add technologies to stack
-* ❌ Remove individual technologies
-* 🗑️ Remove all technologies
-* ⭐ Technology ratings
-* 🎯 Difficulty levels
-* 🏷️ Technology badges
-* 📂 Category-based technology information
-* 🔔 Interactive notifications
-* 🎨 Modern user interface
+- 🔍 Explore different technologies
+- ➕ Add technologies to stack
+- ❌ Remove individual technologies
+- 🗑️ Remove all technologies
+- ⭐ Technology ratings
+- 🎯 Difficulty levels
+- 🏷️ Technology badges
+- 📂 Category-based technology information
+- 🔔 Interactive notifications
+- 🎨 Modern user interface
 
 #### 💻 Technologies
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=react,ts,tailwind,vite"
-    alt="React TypeScript Tailwind Vite"
-  />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" alt="React TypeScript Tailwind Vite" />
 </p>
 
 #### 🔗 Links
 
-**Live Demo:**
+**Live Demo:**  
 https://vocal-melomakarona-446545.netlify.app/
 
-**GitHub Repository:**
+**GitHub Repository:**  
 https://github.com/mohhammadullah/5th-assaignment
 
 ---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
 ## 📚 Currently Learning
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=typescript,nextjs"
-    alt="TypeScript and Next.js"
-  />
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs" alt="TypeScript and Next.js" />
 </p>
 
 ### TypeScript
@@ -253,8 +240,6 @@ Currently improving my TypeScript skills to write more reliable, scalable, and m
 Exploring modern Next.js concepts including routing, rendering, server-side concepts, and full-stack application development.
 
 ---
-
-<!-- ===================== DEVELOPMENT JOURNEY ===================== -->
 
 ## 🎯 My Development Journey
 
@@ -279,8 +264,6 @@ Full-Stack Web Development 🚀
 ```
 
 ---
-
-<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Statistics
 
@@ -307,47 +290,35 @@ Full-Stack Web Development 🚀
 
 ---
 
-<!-- ===================== CONNECT WITH ME ===================== -->
-
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://my-portfolio-omega-blue-65.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/mohhammadullah">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      width="45"
-      alt="GitHub"
-    />
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
   </a>
-
   <a href="https://www.linkedin.com/in/gazi-mohammadullah-601399439/">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      width="45"
-      alt="LinkedIn"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
-
   <a href="https://www.facebook.com/gazimoammaulla">
-    <img
-      src="https://skillicons.dev/icons?i=facebook"
-      width="45"
-      alt="Facebook"
-    />
+    <img src="https://skillicons.dev/icons?i=facebook" width="45" alt="Facebook" />
   </a>
-
 </p>
 
 <p align="center">
   📍 Dumuria, Khulna, Bangladesh
   <br />
   📧 <a href="mailto:gmhgazi92@gmail.com">gmhgazi92@gmail.com</a>
+  <br />
+  🌐 <a href="https://my-portfolio-omega-blue-65.vercel.app/">My Developer Portfolio</a>
 </p>
 
 ---
-
-<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
   <b>💻 Code • Learn • Build • Improve 🚀</b>
